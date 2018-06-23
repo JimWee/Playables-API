@@ -1,2 +1,7 @@
 /Library
 /Playables API.sln
+/obj
+/Temp
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/.vs
